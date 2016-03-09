@@ -6,4 +6,7 @@ public class MainActivity {
 		System.out.println("Hello Wolrd");
 	}
 
+	public void thisIsANewMethod() {
+ }
+
 }
