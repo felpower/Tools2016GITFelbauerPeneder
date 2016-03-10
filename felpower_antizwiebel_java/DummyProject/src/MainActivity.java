@@ -12,6 +12,7 @@ public class MainActivity {
 		int s = 5;
 		int e = s + 1;
 		int x = s + e
+		System.out.println("BUG ----> FIXED");
  }
 
 }
