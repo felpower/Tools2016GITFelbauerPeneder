@@ -9,7 +9,7 @@ public class MainActivity {
 
 	public void thisIsANewMethod() {
 		System.out.println("Felpower is great");
-
+		System.out.println("BUG ----> FIXED");
  }
 
 }
