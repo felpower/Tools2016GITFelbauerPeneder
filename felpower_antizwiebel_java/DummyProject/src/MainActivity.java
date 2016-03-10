@@ -9,7 +9,9 @@ public class MainActivity {
 
 	public void thisIsANewMethod() {
 		System.out.println("Felpower is great");
-
+		int s = 5;
+		int e = s + 1;
+		int x = s + e
  }
 
 }
