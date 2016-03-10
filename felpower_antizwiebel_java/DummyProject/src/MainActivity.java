@@ -8,6 +8,8 @@ public class MainActivity {
 	}
 
 	public void thisIsANewMethod() {
+System.out.println("Felpower is great");
+
  }
 
 }
