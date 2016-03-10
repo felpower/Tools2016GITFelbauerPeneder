@@ -8,7 +8,8 @@ public class MainActivity {
 	}
 
 	public void thisIsANewMethod() {
-			System.out.println("HalliHall43443");
-	}
+		System.out.println("Felpower is great");
+
+ }
 
 }
